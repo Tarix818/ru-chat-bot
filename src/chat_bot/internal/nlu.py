@@ -3,7 +3,7 @@ import pathlib
 import torch
 from torch.nn import functional as f
 from .model import IntentModel
-from src.chat_bot.internal.phrases import phrase_manager
+from .phrases import phrase_manager
 from .vectorizer import vectorize
 
 _CURRENT_DIR = pathlib.Path(__file__).parent.resolve()
