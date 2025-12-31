@@ -77,7 +77,7 @@ chat_bot = ChatBot()
 
 @dp.message(Command("start"))
 async def cmd_start(message: types.Message):
-    logger.info(f"User {message.from_user.id} started the bot")
+    logger.info(f"Пользователь {message.from_user.id} запустил бота.")
     await message.answer("Напишите что-нибудь, чтобы начать беседу...")
 
 @dp.message(F.text)
